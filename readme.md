@@ -2,10 +2,6 @@
 <!-- Title -->
 <h1 align="center" title="Hey!">⏳ Oh hai! I'm [CASK]⏳</h1>
 
-<!-- Contact -->
-<p align="center">
-<a href="mailto:exe@cask.zone" title="Email Address"><code>Email Me 📧</code></a>
-</p>
 
 <!-- Social Links-->
 <p align="center">
@@ -17,6 +13,10 @@
   </kbd>
 </p>
 
+<!-- Email -->
+<p align="center">
+<a href="mailto:exe@cask.zone" title="Email Address"><code>Email Me 📧</code></a>
+</p>
    
 <!-- collapsible -->  
 <details>
