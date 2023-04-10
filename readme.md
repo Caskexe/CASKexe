@@ -23,7 +23,6 @@
    <br>
    
 <!-- About -->
-<details>
 <b>👤 Who?</b>
     <p>
       <img align="left" width="250" src="https://github.com/Caskexe/CASKexe/blob/main/cask-becomes-the-tree.png" alt="Cask J. Thomson" />
