@@ -34,7 +34,5 @@ At the age of 15, I embarked on my career by founding a web design business that
 
 Since then, I have created and developed multiple brands, products, and applications, while also working as a system administrator for both local and remote data centres. My fervour for cybersecurity led me to write a book on the topic, titled Under Constant Supervision.
 
-I possess a keen attention to detail when it comes to digital "hygiene" and have established various folder structures and file naming conventions. These methods may prove beneficial to you or spark inspiration for developing your own system...or not 😂
-
 When I'm not engrossed in the digital realm, you can find me at a synthesizer or an old analog sound desk, surrounded by reel-to-reels and vintage equipment. My growing passion for high-resolution audio and the interplay between analog and digital sound only continues to expand.
 </blockquote>
