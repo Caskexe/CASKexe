@@ -1,6 +1,13 @@
 <!-- Title -->
 <h1 align="center" title="Hey!">⏳ Oh hai! I'm [CASK]⏳</h1>
 
+**My repo's:**
+ - [Hex-to-Image Tool](https://github.com/Caskexe/HEX-to-Image) - a simple HTML tool that exports a HEX colour code to a PNG image!
+ - [Australian English Dictionary](https://github.com/Caskexe/Australian-English-Dictionary) - an Australian English dictionary extension for Firefox and Thunderbird filled with Aussie slang, places and words!
+ - [Yamaha DX7 Soundbanks and Presets](https://github.com/Caskexe/DX) - a collection of instruments and presets converted from both factory and artist cartridges in multiple formats for use with the Yamaha DX7 FM Synthesizer as well as software recreations and SoundFont files
+
+
+
 <!-- Social Links-->
 <p align="center">
    <kbd>
