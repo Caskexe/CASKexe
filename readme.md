@@ -4,10 +4,10 @@
 <!-- Social Links-->
 <p align="center">
    <kbd>
-  <a href="https://twitter.com/CaskJT" title="Twitter - @CaskJT"><img src="https://img.shields.io/badge/-@CaskJT-00acee?style=flat&logo=Twitter&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/linkedcask" title="LinkedIn - Alicia Sykes"><img src="https://img.shields.io/badge/-Cask J. Thomson-0072b1?style=flat&logo=Linkedin&logoColor=white" /></a>
-  <a href="https://github.com/CASKexe" title="GitHub - @CASKexe"><img src="https://img.shields.io/badge/-CASKexe-3a3a3a?style=flat&logo=GitHub&logoColor=white" /></a>
-    <a href="https://CASK.zone" title="My website / random blog"><img src="https://img.shields.io/badge/web/blog-CASK.zone-blue" /></a>
+   <a href="https://twitter.com/CaskJT" title="Twitter - @CaskJT"><img src="https://img.shields.io/badge/-@CaskJT-00acee?style=flat&logo=Twitter&logoColor=white" /></a>
+   <a href="https://www.linkedin.com/in/linkedcask" title="LinkedIn - Alicia Sykes"><img src="https://img.shields.io/badge/-Cask J. Thomson-0072b1?style=flat&logo=Linkedin&logoColor=white" /></a>
+   <a href="https://github.com/CASKexe" title="GitHub - @CASKexe"><img src="https://img.shields.io/badge/-CASKexe-3a3a3a?style=flat&logo=GitHub&logoColor=white" /></a>
+   <a href="https://CASK.zone" title="My website / random blog"><img src="https://img.shields.io/badge/web/blog-CASK.zone-blue" /></a>
   </kbd>
 </p>
 
@@ -20,6 +20,7 @@
 **My repo's:**
  - [Hex-to-Image Tool](https://github.com/Caskexe/HEX-to-Image) - a simple HTML tool that exports a HEX colour code to a PNG image!
  - [Australian English Dictionary](https://github.com/Caskexe/Australian-English-Dictionary) - an Australian English dictionary extension for Firefox and Thunderbird filled with Aussie slang, places and words!
+ - [PETIG - Placeholder English That Isn't Gibberish!](https://github.com/Caskexe/PETIG-Placeholder-English-That-Isnt-Gibberish) - super basic placeholder text for design (with a html tool for generating it)
  - [Yamaha DX7 Soundbanks and Presets](https://github.com/Caskexe/DX) - a collection of instruments and presets converted from both factory and artist cartridges in multiple formats for use with the Yamaha DX7 FM Synthesizer as well as software recreations and SoundFont files
 
 
