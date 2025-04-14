@@ -46,3 +46,13 @@ Since then, I have created and developed multiple brands, products, and applicat
 
 When I'm not engrossed in the digital realm, you can find me at a synthesizer or an old analog sound desk, surrounded by reel-to-reels and vintage equipment. My growing passion for high-resolution audio and the interplay between analog and digital sound only continues to expand.
 </blockquote>
+
+
+
+### Support Me? <3
+***Donations are completely unexpected, but incredibly appreciated!***
+
+[Ko-Fi](https://ko-fi.com/caskexe) 
+[PayPal](https://www.paypal.com/donate/?hosted_button_id=TGX3Q6GHFVZXU) 
+**Litecoin:** MLopHqV7ZBXW67ey4DPMhGWGa3pGan5ZSJ 
+**Bitcoin:** 3GaR1skLQapxSvaCSMaJNvQr9QD3rbp1AR
