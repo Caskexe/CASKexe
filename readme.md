@@ -18,7 +18,9 @@
 </p>
 
 
-**My repo's:**
+**Featured repo's:**
+ - ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) [SimpleStereoSplitter](https://github.com/Caskexe/SimpleStereoSplitter) - a python-based application with a GUI that splits stereo audio files into LEFT and RIGHT.
+ - ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) [TitleSpark Title Generator](https://github.com/Caskexe/TitleSpark-Title-Generator) - TitleSpark creates one or several titles with a single click. Generate fresh, unexpected song titles or working names for any creative project.
  - [HEX-to-Image Tool](https://github.com/Caskexe/HEX-to-Image) - a simple HTML tool that exports a HEX colour code to a PNG image!
  - [Australian English Dictionary](https://github.com/Caskexe/Australian-English-Dictionary) - an Australian English dictionary extension for Firefox and Thunderbird filled with Aussie slang, places and words!
  - [PETIG - Placeholder English That Isn't Gibberish!](https://github.com/Caskexe/PETIG-Placeholder-English-That-Isnt-Gibberish) - super basic placeholder text for design (with a html tool for generating it)
