@@ -6,7 +6,7 @@
 <p align="center">
    <kbd>
    <a href="https://X.com/CaskJT" title="X - @CaskJT"><img src="https://img.shields.io/badge/-@CaskJT-00acee?style=flat&logo=X&logoColor=white" /></a>
-   <a href="https://www.linkedin.com/in/linkedcask" title="LinkedIn - Alicia Sykes"><img src="https://img.shields.io/badge/-Cask J. Thomson-0072b1?style=flat&logo=Linkedin&logoColor=white" /></a>
+   <a href="https://www.linkedin.com/in/linkedcask" title="LinkedIn"><img src="https://img.shields.io/badge/-Cask J. Thomson-0072b1?style=flat&logo=Linkedin&logoColor=white" /></a>
    <a href="https://github.com/CASKexe" title="GitHub - @CASKexe"><img src="https://img.shields.io/badge/-CASKexe-3a3a3a?style=flat&logo=GitHub&logoColor=white" /></a>
    <a href="https://CASK.zone" title="My website / random blog"><img src="https://img.shields.io/badge/web/blog-CASK.zone-blue" /></a>
   </kbd>
