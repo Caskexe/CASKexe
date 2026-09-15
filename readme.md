@@ -27,6 +27,8 @@
  - [Yamaha DX7 Soundbanks and Presets](https://github.com/Caskexe/DX) - a collection of instruments and presets converted from both factory and artist cartridges in multiple formats for use with the Yamaha DX7 FM Synthesizer as well as software recreations and SoundFont files
  - [SketchUp Plugin: Find and Replace in Text](https://github.com/Caskexe/SKETCHUP-Find-and-Replace-in-Names) - A simple find and replace plugin for SketchUp that adds the feature to find and replace text across names, definitions and instances.
 
+[See all]([https://github.com/Caskexe/SKETCHUP-Find-and-Replace-in-Names](https://github.com/Caskexe?tab=repositories)
+
 _____
 ### Support Me? <3
 ***Donations are completely unexpected, but incredibly appreciated!***
