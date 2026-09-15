@@ -14,7 +14,7 @@
 
 <!-- Email -->
 <p align="center">
-<a href="mailto:exe@cask.zone" title="Email Address"><code>Email Me 📧</code></a>
+<a href="mailto:exe[@]cask[dot]zone" title="Email Address"><code>Email Me 📧 (Replace [dot])</code></a>
 </p>
 
 
